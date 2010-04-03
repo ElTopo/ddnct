@@ -1,0 +1,4 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by ddnct.rc
+//
+#define HIDC_BLB                        0x808203ee    // IDD_DIALOG_CROP
